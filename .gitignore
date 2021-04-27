@@ -3,3 +3,4 @@ package_lock.json
 .DS_Store
 *.xcf
 dist
+build
