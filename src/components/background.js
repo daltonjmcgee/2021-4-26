@@ -62,7 +62,7 @@ const threeJsBackground = () => {
 
   renderer.setSize(sizes.width, sizes.height);
   renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
-  
+
   let mouse = {
     x: 0,
     y: 0,
@@ -90,13 +90,6 @@ const threeJsBackground = () => {
 
 
   var animate = function () {
-
-    // Movement with mouse position
-    table.rotation.z = 0.03 + (mouse.x * .00005);
-    camera.rotation.y = 0.1 - (mouse.x * .0001);
-    table.rotation.x = -1.06 + (mouse.y * .00005);
-    camera.rotation.z = 0.04 - (mouse.y * .0001);
-
     requestAnimationFrame(animate);
     renderer.render(scene, camera);
   };

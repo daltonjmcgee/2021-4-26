@@ -12,6 +12,12 @@ const GlobalStyle = createGlobalStyle`
     font-weight: black;
   }
 
+  @font-face {
+    font-family: "Roboto";
+    src: url("/static/fonts/Roboto-Bold.ttf") format("truetype");
+    font-weight: bold;
+  }
+
   body {
     font-size: 16px;
     margin: 0;
