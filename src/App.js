@@ -8,13 +8,13 @@ import ColorCtx, {colors} from './components/context';
 const GlobalStyle = createGlobalStyle`
   @font-face {
     font-family: "Martel";
-    src: url("/static/fonts/Martel-Black.ttf") format("truetype");
+    src: url("static/fonts/Martel-Black.ttf") format("truetype");
     font-weight: black;
   }
 
   @font-face {
     font-family: "Roboto";
-    src: url("/static/fonts/Roboto-Bold.ttf") format("truetype");
+    src: url("static/fonts/Roboto-Bold.ttf") format("truetype");
     font-weight: bold;
   }
 

@@ -13,7 +13,7 @@ const threeJsBackground = () => {
   camera.position.set(-0.11, -0.12, 4.8);
   camera.rotation.set(0.08, 0.1, 0.04);
 
-  const modelPath = './static/models/side_table.glb';
+  const modelPath = 'static/models/side_table.glb';
 
   // const debug = new dat.GUI();
 

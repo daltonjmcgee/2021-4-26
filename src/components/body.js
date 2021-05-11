@@ -10,25 +10,25 @@ const StyledBody = styled.main`
 
 const data = [
   {
-    image: "/static/images/side_table_bg.png",
-    overlayImage: "/static/images/side_table_no_bg.png",
+    image: "static/images/side_table_bg.png",
+    overlayImage: "static/images/side_table_no_bg.png",
     description: "3D Rendered Side Table with Background",
     text: "New Designs",
     link: 'gallery',
     primaryButton: "Shop",
   },
   {
-    image: "/static/images/stash_box_table_bg.png",
-    overlayImage: "/static/images/stash_box_no_bg.png",
+    image: "static/images/stash_box_table_bg.png",
+    overlayImage: "static/images/stash_box_no_bg.png",
     description: "3D Rendered Stash Box with Background",
     text: "Reliable Standards",
     link: "store",
     primaryButton: "Shop",
   },
   {
-    image: "/static/images/coffee_table_bg.png",
-    overlayImage: "/static/images/coffee_table_no_bg.png",
-    tertiaryImage: "/static/images/coffee_table_wireframe.png",
+    image: "static/images/coffee_table_bg.png",
+    overlayImage: "static/images/coffee_table_no_bg.png",
+    tertiaryImage: "static/images/coffee_table_wireframe.png",
     description: "3D Rendered Coffee Table",
     text: "Custom Work",
     link: "commission",
