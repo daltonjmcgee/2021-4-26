@@ -3,12 +3,12 @@
 ### Technologies
 * Javascript
 * HTML/CSS
-* [https://reactjs.org/](React)
-* [https://create-react-app.dev/](CRA)
-* [https://greensock.com/gsap/](GSAP)
-* [https://www.gimp.org/](GIMP)
-* [https://www.blender.org/](Blender) 
-* [https://threejs.org/](ThreeJS)
+* [React](https://reactjs.org/)
+* [CRA](https://create-react-app.dev/)
+* [GSAP](https://greensock.com/gsap/)
+* [GIMP](https://www.gimp.org/)
+* [Blender](https://www.blender.org/) 
+* [ThreeJS](https://threejs.org/)
 
 ### Resources and details
 
@@ -16,7 +16,7 @@ This is the beginning of the website I'm building for my woodworking business. T
 
 ### The Three Dimensional Renders
 
-The furniture images in this were built using the opensource software Blender as well as free materials files from the website [https://www.poliigon.com/](Poliigon) to build the models which were then exported PNGs. The background wireframe was built the same and exported in the [https://en.wikipedia.org/wiki/GlTF](.glb) format and then imported into ThreeJS with the wireframe material applied to it. 
+The furniture images in this were built using the opensource software Blender as well as free materials files from the website [Poliigon](https://www.poliigon.com/) to build the models which were then exported PNGs. The background wireframe was built the same and exported in the [.glb](https://en.wikipedia.org/wiki/GlTF) format and then imported into ThreeJS with the wireframe material applied to it. 
 
 The renders was made with a perspective camera with a focal length of 65mm. I used two pointlights with varying wattages, radii and locations to achieve the lighting effects. 
 
