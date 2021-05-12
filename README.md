@@ -20,6 +20,6 @@ The furniture images in this were built using the opensource software Blender as
 
 The renders was made with a perspective camera with a focal length of 65mm. I used two pointlights with varying wattages, radii and locations to achieve the lighting effects. 
 
-![https://github.com/daltonjmcgee/2021-4-26/blob/main/static/images/coffee_table_bg.png](Table with background)
+![](https://github.com/daltonjmcgee/2021-4-26/blob/main/static/images/coffee_table_bg.png)
 
-![https://github.com/daltonjmcgee/2021-4-26/blob/main/static/images/coffee_table_no_bg.png](Table without background)
+![](https://github.com/daltonjmcgee/2021-4-26/blob/main/static/images/coffee_table_no_bg.png)
